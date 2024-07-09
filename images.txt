@@ -1,7 +1,7 @@
 nginx
 centos
 archlinux
-linuxserver/webtop:lastest
+linuxserver/webtop:latest
 linuxserver/webtop:arch-xfce
 linuxserver/webtop:ubuntu-xfce
 linuxserver/webtop:ubuntu-mate
