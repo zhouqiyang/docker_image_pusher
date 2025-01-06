@@ -1,15 +1,6 @@
 nginx
-centos
-archlinux
-linuxserver/webtop:latest
-linuxserver/webtop:arch-xfce
-linuxserver/webtop:ubuntu-xfce
-linuxserver/webtop:ubuntu-mate
-snowdreamtech/frps
-kasmweb/redroid
-portainer/portainer-ce:latest
+portainer/portainer-ce
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
