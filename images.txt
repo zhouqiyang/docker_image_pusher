@@ -7,7 +7,7 @@ linuxserver/webtop:ubuntu-xfce
 linuxserver/webtop:ubuntu-mate
 snowdreamtech/frps
 kasmweb/redroid
-portainer/portainer-ce
+portainer/portainer-ce:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
